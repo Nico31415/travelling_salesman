@@ -9,3 +9,7 @@ The most intuitive solution would be to check every possible path. However, this
 Another algorithm that comes to mind is the Nearest Neighbour (NN), which each city to its closest neighbour. This sounds like a good idea but can be catastrophic if you have to reach to a really far away city at the end of the path.
 
 Here is an example of why the NN can go wrong. 
+
+![Nearest Neighbour]
+
+https://github.com/Nico31415/travelling_salesman/blob/master/nearest_neighbour.png
