@@ -11,3 +11,4 @@ Another algorithm that comes to mind is the Nearest Neighbour (NN), which each c
 Here is an example of why the NN can go wrong. 
 
 ![nearest_neighbour](https://user-images.githubusercontent.com/20355467/91210591-64c97b00-e705-11ea-81bf-6d461f22a7ed.png)
+![held_karp](https://user-images.githubusercontent.com/20355467/91210698-8591d080-e705-11ea-93ba-9a087eeb2b41.png)
