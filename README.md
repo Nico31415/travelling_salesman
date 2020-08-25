@@ -15,4 +15,6 @@ Here is an example of why the NN can go wrong.
 
 One of the open problems in Computer Science is to find an algorithm for TSP with polynomial time. Using dinamic programming and memoisation, The Held-Karp algorithm does much better than brute force, with O(2^n*n^2), but not quite as good as polinomial time.
 
-This is a logarithmic graph comparing the times for Brute Force and Held Karp
+This is a logarithmic graph comparing the times for Brute Force (blue) and Held Karp (orange)
+
+![TSP](https://user-images.githubusercontent.com/20355467/91210969-ec16ee80-e705-11ea-8382-2f28c1d30ffe.png)
