@@ -18,3 +18,8 @@ One of the open problems in Computer Science is to find an algorithm for TSP wit
 This is a logarithmic graph comparing the times for Brute Force (blue) and Held Karp (orange)
 
 ![TSP](https://user-images.githubusercontent.com/20355467/91210969-ec16ee80-e705-11ea-8382-2f28c1d30ffe.png)
+
+To learn more about this problem, please see:
+
+https://en.wikipedia.org/wiki/Travelling_salesman_problem
+https://medium.com/basecs/speeding-up-the-traveling-salesman-using-dynamic-programming-b76d7552e8dd
