@@ -10,6 +10,4 @@ Another algorithm that comes to mind is the Nearest Neighbour (NN), which each c
 
 Here is an example of why the NN can go wrong. 
 
-![Nearest Neighbour]
-
-https://github.com/Nico31415/travelling_salesman/blob/master/nearest_neighbour.png
+![nearest_neighbour](https://user-images.githubusercontent.com/20355467/91210591-64c97b00-e705-11ea-81bf-6d461f22a7ed.png)
