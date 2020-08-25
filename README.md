@@ -10,8 +10,9 @@ Another algorithm that comes to mind is the Nearest Neighbour (NN), which each c
 
 Here is an example of why the NN can go wrong. 
 
-![nearest_neighbour](https://user-images.githubusercontent.com/20355467/91210591-64c97b00-e705-11ea-81bf-6d461f22a7ed.png)
-![held_karp](https://user-images.githubusercontent.com/20355467/91210698-8591d080-e705-11ea-93ba-9a087eeb2b41.png)
+![Unknown](https://user-images.githubusercontent.com/20355467/91211883-5d0ad600-e707-11ea-9f10-b3b01bb53228.png)
+![Unknown-1](https://user-images.githubusercontent.com/20355467/91211952-77dd4a80-e707-11ea-8b7b-08971b3c4c8f.png)
+
 
 One of the open problems in Computer Science is to find an algorithm for TSP with polynomial time. Using dinamic programming and memoisation, The Held-Karp algorithm does much better than brute force, with O(2^n*n^2), but not quite as good as polinomial time.
 
